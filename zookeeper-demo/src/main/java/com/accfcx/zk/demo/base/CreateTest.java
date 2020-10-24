@@ -1,14 +1,10 @@
-package com.accfcx.zk.demo.api;
+package com.accfcx.zk.demo.base;
 
-import org.apache.zookeeper.CreateMode;
 import org.apache.zookeeper.KeeperException;
 import org.apache.zookeeper.ZooKeeper;
-import org.apache.zookeeper.data.ACL;
 import org.apache.zookeeper.data.Stat;
 
 import java.io.IOException;
-
-import static org.apache.zookeeper.ZooDefs.Ids.OPEN_ACL_UNSAFE;
 
 /**
  * @author accfcx

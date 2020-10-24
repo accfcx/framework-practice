@@ -1,4 +1,4 @@
-package com.accfcx.zk.demo;
+package com.accfcx.zk.lock;
 
 /**
  * @author accfcx
