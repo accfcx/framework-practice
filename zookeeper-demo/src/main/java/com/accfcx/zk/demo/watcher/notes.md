@@ -4,3 +4,7 @@ Master-worker watch
 3 master watch tasks change  
 4 worker watch task assignment  
 5 client watch task execution result
+
+liveness[eventually done] VS safety[correctly done]
+
+notification multi
