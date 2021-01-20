@@ -7,7 +7,10 @@
   <groupId>com.accfcx</groupId>
   <artifactId>hdfs-demo</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <modules>
+    <module>../hadoop-demo</module>
+  </modules>
+  <packaging>pom</packaging>
 
   <name>hdfs-demo Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
